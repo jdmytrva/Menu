@@ -4,7 +4,7 @@
  #include <unistd.h>
 #include <windows.h>
  #include <time.h>
-
+//new
 #define OPTION 1
 #define SET 1
 #define bool_1_0 char
