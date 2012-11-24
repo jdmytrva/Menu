@@ -14,6 +14,7 @@ struct OptionValue
     unsigned char CharValue[17];
 };
 
+
 struct menu_item
 {
         unsigned char Name[17];
